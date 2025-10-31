@@ -127,9 +127,6 @@ scripts/load_to_db.py
 dashboard/app.py
 
 5. **Run the data pipeline**
-python scripts/scrape_fbref.py     # Collect raw data
-python scripts/clean_data.py       # Clean and standardize
-python scripts/load_to_db.py       # Load into PostgreSQL
 
 6. **Launch the Streamlit dashboard**
 streamlit run app.py
