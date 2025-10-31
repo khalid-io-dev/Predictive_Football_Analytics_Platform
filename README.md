@@ -73,7 +73,7 @@ The solution follows a **data pipeline architecture** composed of four main stag
 ---
 
 ## 📁 Project Structure
-
+```bash
 predictive-football-analytics/
 │
 ├── data/
@@ -98,7 +98,7 @@ predictive-football-analytics/
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 └── .gitignore
-
+```
 
 ---
 
