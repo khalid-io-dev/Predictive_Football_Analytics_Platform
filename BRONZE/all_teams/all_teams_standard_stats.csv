@@ -1,0 +1,761 @@
+Unnamed: 0_level_0 Player,Unnamed: 1_level_0 Nation,Unnamed: 2_level_0 Pos,Unnamed: 3_level_0 Age,Unnamed: 4_level_0 MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance Gls,Performance Ast,Performance G+A,Performance G-PK,Performance PK,Performance PKatt,Performance CrdY,Performance CrdR,Unnamed: 33_level_0 Matches,team_name,team_url,Playing Time MP
+Mohamed Salah,eg EGY,FW,32.0,38,38,3371.0,37.5,29.0,18.0,47.0,20.0,9.0,9.0,1.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Virgil van Dijk,nl NED,DF,33.0,37,37,3330.0,37.0,3.0,1.0,4.0,3.0,0.0,0.0,5.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Ryan Gravenberch,nl NED,MF,22.0,37,37,3160.0,35.1,0.0,4.0,4.0,0.0,0.0,0.0,6.0,1.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Alexis Mac Allister,ar ARG,MF,25.0,35,30,2599.0,28.9,5.0,5.0,10.0,5.0,0.0,0.0,6.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Ibrahima Konaté,fr FRA,DF,25.0,31,30,2560.0,28.4,1.0,2.0,3.0,1.0,0.0,0.0,5.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Dominik Szoboszlai,hu HUN,MF,23.0,36,29,2491.0,27.7,6.0,6.0,12.0,6.0,0.0,0.0,6.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Andrew Robertson,sct SCO,DF,30.0,33,29,2482.0,27.6,0.0,1.0,1.0,0.0,0.0,0.0,3.0,1.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Alisson,br BRA,GK,31.0,28,28,2508.0,27.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Luis Díaz,co COL,FW,27.0,36,28,2399.0,26.7,13.0,5.0,18.0,13.0,0.0,0.0,2.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Trent Alexander-Arnold,eng ENG,DF,25.0,33,28,2365.0,26.3,3.0,6.0,9.0,3.0,0.0,0.0,5.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Cody Gakpo,nl NED,FW,25.0,35,23,1935.0,21.5,10.0,4.0,14.0,10.0,0.0,0.0,5.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Curtis Jones,eng ENG,"MF,DF",23.0,33,19,1712.0,19.0,3.0,3.0,6.0,3.0,0.0,0.0,3.0,1.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Diogo Jota,pt POR,FW,27.0,26,14,1196.0,13.3,6.0,3.0,9.0,6.0,0.0,0.0,2.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Caoimhín Kelleher,ie IRL,GK,25.0,10,10,900.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Kostas Tsimikas,gr GRE,DF,28.0,18,9,837.0,9.3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Darwin Núñez,uy URU,FW,25.0,30,8,1133.0,12.6,5.0,2.0,7.0,5.0,0.0,0.0,8.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Conor Bradley,nir NIR,DF,21.0,19,7,754.0,8.4,0.0,2.0,2.0,0.0,0.0,0.0,4.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Joe Gomez,eng ENG,DF,27.0,9,6,519.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Jarell Quansah,eng ENG,DF,21.0,13,4,495.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Harvey Elliott,eng ENG,MF,21.0,18,2,371.0,4.1,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Wataru Endo,jp JPN,"MF,DF",31.0,20,1,273.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Federico Chiesa,it ITA,FW,26.0,6,1,108.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Vitezslav Jaros,cz CZE,GK,23.0,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Jayden Danns,eng ENG,MF,18.0,1,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Harvey Davies,eng ENG,GK,20.0,0,0,,,,,,,,,,,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+James McConnell,eng ENG,MF,19.0,0,0,,,,,,,,,,,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Tyler Morton,eng ENG,MF,21.0,0,0,,,,,,,,,,,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Amara Nallo,eng ENG,DF,17.0,0,0,,,,,,,,,,,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Trey Nyoni,eng ENG,MF,17.0,0,0,,,,,,,,,,,Matches,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Squad Total,,,27.2,38,418,3420.0,38.0,85.0,65.0,150.0,76.0,9.0,9.0,67.0,3.0,,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+Opponent Total,,,26.1,38,418,3420.0,38.0,39.0,28.0,67.0,38.0,1.0,2.0,84.0,2.0,,Liverpool,https://fbref.com/en/squads/822bd0ba/2024-2025/Liverpool-Stats,
+David Raya,es ESP,GK,28,38,38,3420,38.0,0,0,0,0,0,0,3,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+William Saliba,fr FRA,DF,23,35,35,3039,33.8,2,0,2,2,0,0,2,1,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Declan Rice,eng ENG,MF,25,35,33,2825,31.4,4,7,11,4,0,0,7,1,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Thomas Partey,gh GHA,"MF,DF",31,35,31,2797,31.1,4,2,6,4,0,0,4,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Leandro Trossard,be BEL,FW,29,38,28,2546,28.3,8,7,15,8,0,0,4,1,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Gabriel Magalhães,br BRA,DF,26,28,28,2363,26.3,3,1,4,3,0,0,4,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Jurriën Timber,nl NED,DF,23,30,27,2417,26.9,1,3,4,1,0,0,7,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Martin Ødegaard,no NOR,MF,25,30,26,2325,25.8,3,8,11,2,1,1,4,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Gabriel Martinelli,br BRA,"FW,MF",23,33,25,2290,25.4,8,4,12,8,0,0,1,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Kai Havertz,de GER,"FW,MF",25,23,21,1875,20.8,9,3,12,9,0,0,5,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Bukayo Saka,eng ENG,"FW,MF",22,25,20,1729,19.2,6,10,16,5,1,1,3,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Mikel Merino,es ESP,"MF,FW",28,28,17,1586,17.6,7,2,9,7,0,0,4,1,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Myles Lewis-Skelly,eng ENG,DF,17,23,15,1369,15.2,1,0,1,1,0,0,3,2,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Ben White,eng ENG,DF,26,17,13,1198,13.3,0,2,2,0,0,0,2,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Riccardo Calafiori,it ITA,DF,22,19,11,983,10.9,2,1,3,2,0,0,4,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Ethan Nwaneri,eng ENG,"FW,MF",17,26,11,895,9.9,4,2,6,4,0,0,1,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Jakub Kiwior,pl POL,DF,24,17,10,1122,12.5,1,0,1,1,0,0,1,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Jorginho,it ITA,MF,32,15,9,704,7.8,0,0,0,0,0,0,5,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Raheem Sterling,eng ENG,"FW,MF",29,17,7,499,5.5,0,2,2,0,0,0,1,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Gabriel Jesus,br BRA,FW,27,17,6,608,6.8,3,0,3,3,0,0,4,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Oleksandr Zinchenko,ua UKR,"DF,MF",27,15,5,527,5.9,0,1,1,0,0,0,1,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Kieran Tierney,sct SCO,"DF,FW",27,13,2,259,2.9,1,0,1,1,0,0,0,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Nathan Butler-Oyedeji,eng ENG,FW,21,1,0,7,0.1,0,0,0,0,0,0,0,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Takehiro Tomiyasu,jp JPN,DF,25,1,0,7,0.1,0,0,0,0,0,0,0,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Reiss Nelson,eng ENG,FW,24,1,0,3,0.0,0,0,0,0,0,0,0,0,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Brayden Clarke,wls WAL,DF,17,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Jimi Gower,eng ENG,MF,19,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Ayden Heaven,eng ENG,DF,17,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Jack Henry-Francis,ie IRL,MF,20,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Ismeal Kabia,eng ENG,MF,18,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Maldini Kacurri,al ALB,DF,18,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Neto,br BRA,GK,35,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Josh Nichols,eng ENG,DF,18,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Eddie Nketiah,eng ENG,FW,25,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Salah Oulad M'Hand,nl NED,MF,20,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Jack Porter,eng ENG,GK,16,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Aaron Ramsdale,eng ENG,GK,26,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Tommy Setford,eng ENG,GK,18,0,0,,,,,,,,,,,Matches,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Squad Total,,,25.8,38,418,3420,38.0,67,55,122,65,2,2,70,6,,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Opponent Total,,,26.1,38,418,3420,38.0,34,24,58,31,3,3,83,2,,Arsenal,https://fbref.com/en/squads/18bb7c10/2024-2025/Arsenal-Stats,
+Joško Gvardiol,hr CRO,DF,22.0,,36,3277.0,36.4,5.0,0.0,5.0,5.0,0.0,0.0,2.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,37
+Erling Haaland,no NOR,FW,24.0,,31,2736.0,30.4,22.0,3.0,25.0,19.0,3.0,4.0,2.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,31
+Bernardo Silva,pt POR,"MF,FW",29.0,,29,2670.0,29.7,4.0,4.0,8.0,4.0,0.0,0.0,7.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,33
+Ederson,br BRA,GK,30.0,,26,2320.0,25.8,0.0,4.0,4.0,0.0,0.0,0.0,4.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,26
+Rúben Dias,pt POR,DF,27.0,,25,2271.0,25.2,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,27
+İlkay Gündoğan,de GER,MF,33.0,,25,2223.0,24.7,1.0,6.0,7.0,1.0,0.0,0.0,1.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,33
+Mateo Kovačić,hr CRO,MF,30.0,,25,2198.0,24.4,6.0,2.0,8.0,6.0,0.0,0.0,5.0,1.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,31
+Manuel Akanji,ch SUI,DF,29.0,,23,2014.0,22.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,26
+Rico Lewis,eng ENG,"DF,MF",19.0,,21,1893.0,21.0,1.0,2.0,3.0,1.0,0.0,0.0,5.0,1.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,28
+Sávio,br BRA,"FW,MF",20.0,,21,1766.0,19.6,1.0,8.0,9.0,1.0,0.0,0.0,3.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,29
+Phil Foden,eng ENG,"MF,FW",24.0,,20,1777.0,19.7,7.0,2.0,9.0,7.0,0.0,0.0,2.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,28
+Kevin De Bruyne,be BEL,"MF,FW",33.0,,19,1702.0,18.9,4.0,7.0,11.0,4.0,0.0,0.0,2.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,28
+Matheus Nunes,pt POR,"DF,MF",25.0,,19,1674.0,18.6,1.0,6.0,7.0,1.0,0.0,0.0,4.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,26
+Jeremy Doku,be BEL,"FW,MF",22.0,,16,1516.0,16.8,3.0,6.0,9.0,3.0,0.0,0.0,1.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,29
+Omar Marmoush,eg EGY,"FW,MF",25.0,,14,1175.0,13.1,7.0,0.0,7.0,7.0,0.0,0.0,0.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,16
+Stefan Ortega,de GER,GK,31.0,,12,1100.0,12.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,13
+Kyle Walker,eng ENG,DF,34.0,,9,970.0,10.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,15
+Nicolás González,es ESP,MF,22.0,,9,760.0,8.4,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,11
+Nathan Aké,nl NED,DF,29.0,,8,678.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,10
+Jack Grealish,eng ENG,"FW,MF",28.0,,7,721.0,8.0,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,20
+John Stones,eng ENG,"DF,MF",30.0,,6,548.0,6.1,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,11
+Nico O’Reilly,eng ENG,DF,19.0,,6,528.0,5.9,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,9
+Abdukodir Khusanov,uz UZB,DF,20.0,,6,503.0,5.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,6
+James Mcatee,eng ENG,"MF,FW",21.0,,3,349.0,3.9,3.0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,15
+Jahmai Simpson-Pusey,eng ENG,DF,18.0,,1,96.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,2
+Rodri,es ESP,MF,28.0,,1,73.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,3
+Divin Mubama,eng ENG,FW,19.0,,0,28.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,1
+Oscar Bobb,no NOR,FW,21.0,,0,16.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,3
+Claudio Echeverri,ar ARG,FW,18.0,,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,1
+Vitor Reis,br BRA,DF,18.0,,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,1
+Max Alleyne,eng ENG,DF,19.0,,0,,,,,,,,,,,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,0
+Thorsten Brits,eng ENG,GK,17.0,,0,,,,,,,,,,,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,0
+Scott Carson,eng ENG,GK,38.0,,0,,,,,,,,,,,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,0
+Issa Kaboré,bf BFA,"DF,MF",23.0,,0,,,,,,,,,,,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,0
+Josh Wilson-Esbrand,eng ENG,DF,21.0,,0,,,,,,,,,,,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,0
+Jacob Wright,eng ENG,MF,18.0,,0,,,,,,,,,,,Matches,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,0
+Squad Total,,,26.8,,418,3420.0,38.0,71.0,51.0,122.0,68.0,3.0,4.0,59.0,2.0,,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,38
+Opponent Total,,,26.2,,418,3420.0,38.0,42.0,32.0,74.0,38.0,4.0,4.0,88.0,2.0,,Manchester City,https://fbref.com/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,38
+Moisés Caicedo,ec ECU,"MF,DF",22.0,38,38,3351.0,37.2,1.0,2.0,3.0,1.0,0.0,0.0,11.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Cole Palmer,eng ENG,"MF,FW",22.0,37,36,3191.0,35.5,15.0,8.0,23.0,11.0,4.0,5.0,7.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Levi Colwill,eng ENG,DF,21.0,35,35,3149.0,35.0,2.0,1.0,3.0,2.0,0.0,0.0,9.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Marc Cucurella,es ESP,DF,26.0,36,33,2988.0,33.2,5.0,1.0,6.0,5.0,0.0,0.0,10.0,1.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Enzo Fernández,ar ARG,MF,23.0,36,32,2947.0,32.7,6.0,7.0,13.0,6.0,0.0,0.0,8.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Robert Sánchez,es ESP,GK,26.0,32,32,2880.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Nicolas Jackson,sn SEN,FW,23.0,30,28,2220.0,24.7,10.0,5.0,15.0,10.0,0.0,0.0,7.0,1.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Noni Madueke,eng ENG,FW,22.0,32,27,2033.0,22.6,7.0,3.0,10.0,7.0,0.0,0.0,3.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Pedro Neto,pt POR,FW,24.0,35,24,2269.0,25.2,4.0,6.0,10.0,4.0,0.0,0.0,8.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Malo Gusto,fr FRA,DF,21.0,32,19,1862.0,20.7,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Jadon Sancho,eng ENG,FW,24.0,31,19,1764.0,19.6,3.0,4.0,7.0,3.0,0.0,0.0,2.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Tosin Adarabioyo,eng ENG,DF,26.0,22,15,1409.0,15.7,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Wesley Fofana,fr FRA,DF,23.0,14,14,1172.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Reece James,eng ENG,"DF,MF",24.0,19,12,1063.0,11.8,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Trevoh Chalobah,eng ENG,DF,25.0,13,11,910.0,10.1,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Roméo Lavia,be BEL,MF,20.0,16,11,797.0,8.9,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Christopher Nkunku,fr FRA,FW,26.0,27,9,921.0,10.2,3.0,2.0,5.0,3.0,0.0,0.0,2.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Filip Jørgensen,dk DEN,GK,22.0,6,6,540.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Axel Disasi,fr FRA,DF,26.0,6,4,364.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+João Félix,pt POR,"FW,MF",24.0,12,3,369.0,4.1,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Benoît Badiashile,fr FRA,DF,23.0,5,3,334.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Kiernan Dewsbury-Hall,eng ENG,"MF,FW",25.0,13,2,264.0,2.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Joshua Acheampong,eng ENG,DF,18.0,4,2,170.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Tyrique George,eng ENG,FW,18.0,8,1,183.0,2.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Renato Veiga,pt POR,"DF,MF",21.0,7,1,181.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Mykhailo Mudryk,ua UKR,FW,23.0,7,1,151.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Marc Guiu,es ESP,FW,18.0,3,0,73.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Mathis Amougou,fr FRA,MF,18.0,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Shumaira Mheuka,eng ENG,MF,16.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Aaron Anselmino,ar ARG,DF,19.0,0,0,,,,,,,,,,,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Genesis Antwi,se SWE,MF,17.0,0,0,,,,,,,,,,,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Marcus Bettinelli,eng ENG,GK,32.0,0,0,,,,,,,,,,,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Cesare Casadei,it ITA,MF,21.0,0,0,,,,,,,,,,,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Samuel Rak-Sakyi,eng ENG,MF,19.0,0,0,,,,,,,,,,,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Ishé Samuels-Smith,eng ENG,DF,18.0,0,0,,,,,,,,,,,Matches,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Squad Total,,,23.7,38,418,3420.0,38.0,61.0,47.0,108.0,57.0,4.0,5.0,101.0,2.0,,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Opponent Total,,,26.5,38,418,3420.0,38.0,43.0,33.0,76.0,38.0,5.0,6.0,98.0,2.0,,Chelsea,https://fbref.com/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,
+Bruno Guimarães,br BRA,MF,26.0,38,38,3271.0,36.3,5.0,6.0,11.0,5.0,0.0,0.0,7.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Dan Burn,eng ENG,DF,32.0,37,37,3330.0,37.0,1.0,1.0,2.0,1.0,0.0,0.0,11.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Alexander Isak,se SWE,FW,24.0,34,34,2756.0,30.6,23.0,6.0,29.0,19.0,4.0,4.0,1.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Fabian Schär,ch SUI,DF,32.0,34,33,2934.0,32.6,4.0,0.0,4.0,4.0,0.0,0.0,9.0,1.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Valentino Livramento,eng ENG,DF,21.0,37,32,2840.0,31.6,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Jacob Murphy,eng ENG,FW,29.0,35,31,2360.0,26.2,8.0,12.0,20.0,8.0,0.0,0.0,4.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Joelinton,br BRA,"MF,FW",27.0,29,29,2393.0,26.6,4.0,3.0,7.0,4.0,0.0,0.0,10.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Sandro Tonali,it ITA,MF,24.0,36,28,2630.0,29.2,4.0,2.0,6.0,4.0,0.0,0.0,5.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Nick Pope,eng ENG,GK,32.0,28,28,2520.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Anthony Gordon,eng ENG,"FW,MF",23.0,34,28,2434.0,27.0,6.0,5.0,11.0,5.0,1.0,2.0,2.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Lewis Hall,eng ENG,DF,19.0,27,24,2189.0,24.3,0.0,4.0,4.0,0.0,0.0,0.0,3.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Harvey Barnes,eng ENG,FW,26.0,33,17,1755.0,19.5,9.0,4.0,13.0,9.0,0.0,0.0,0.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Kieran Trippier,eng ENG,DF,33.0,25,14,1309.0,14.5,0.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Joe Willock,eng ENG,"MF,FW",24.0,32,11,1086.0,12.1,0.0,2.0,2.0,0.0,0.0,0.0,4.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Martin Dúbravka,sk SVK,GK,35.0,10,10,900.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Sean Longstaff,eng ENG,MF,26.0,25,8,798.0,8.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Sven Botman,nl NED,DF,24.0,8,6,412.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Lloyd Kelly,eng ENG,DF,25.0,10,4,303.0,3.4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Callum Wilson,eng ENG,FW,32.0,18,2,370.0,4.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Emil Krafth,se SWE,DF,29.0,12,2,342.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Lewis Miley,eng ENG,MF,18.0,14,1,313.0,3.5,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Miguel Almirón,py PAR,FW,30.0,9,1,157.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+William Osula,dk DEN,FW,20.0,14,0,134.0,1.5,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Matt Targett,eng ENG,DF,28.0,2,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Jamaal Lascelles,eng ENG,DF,30.0,0,0,,,,,,,,,,,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Alex Murphy,ie IRL,DF,20.0,0,0,,,,,,,,,,,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Sean Neave,eng ENG,FW,17.0,0,0,,,,,,,,,,,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+John Ruddy,eng ENG,GK,37.0,0,0,,,,,,,,,,,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Leo Shahar,eng ENG,DF,17.0,0,0,,,,,,,,,,,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Odysseas Vlachodimos,gr GRE,GK,30.0,0,0,,,,,,,,,,,Matches,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Squad Total,,,27.4,38,418,3420.0,38.0,66.0,50.0,116.0,61.0,5.0,6.0,68.0,1.0,,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Opponent Total,,,26.3,38,418,3420.0,38.0,45.0,41.0,86.0,44.0,1.0,2.0,97.0,3.0,,Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,
+Emiliano Martínez,ar ARG,GK,31.0,37,37,3194.0,35.5,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Morgan Rogers,eng ENG,"FW,MF",22.0,37,37,3114.0,34.6,8.0,10.0,18.0,8.0,0.0,0.0,10.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Youri Tielemans,be BEL,MF,27.0,36,35,3026.0,33.6,3.0,7.0,10.0,3.0,0.0,1.0,4.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Ezri Konsa,eng ENG,DF,26.0,34,33,2936.0,32.6,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Ollie Watkins,eng ENG,FW,28.0,38,31,2598.0,28.9,16.0,8.0,24.0,14.0,2.0,2.0,2.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Lucas Digne,fr FRA,DF,31.0,32,28,2351.0,26.1,0.0,4.0,4.0,0.0,0.0,0.0,4.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+John McGinn,sct SCO,"MF,FW",29.0,34,27,2223.0,24.7,1.0,4.0,5.0,1.0,0.0,0.0,7.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Matty Cash,pl POL,DF,26.0,27,24,2070.0,23.0,1.0,1.0,2.0,1.0,0.0,0.0,7.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Pau Torres,es ESP,DF,27.0,24,23,2020.0,22.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Boubacar Kamara,fr FRA,MF,24.0,26,20,1726.0,19.2,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Amadou Onana,be BEL,MF,22.0,26,20,1617.0,18.0,3.0,0.0,3.0,3.0,0.0,0.0,4.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Jacob Ramsey,eng ENG,"FW,MF",23.0,29,19,1623.0,18.0,1.0,3.0,4.0,1.0,0.0,0.0,4.0,1.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Leon Bailey,jm JAM,"FW,MF",26.0,24,14,1139.0,12.7,1.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Tyrone Mings,eng ENG,DF,31.0,14,12,1120.0,12.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Ian Maatsen,nl NED,DF,22.0,29,10,1139.0,12.7,1.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Marco Asensio,es ESP,MF,28.0,13,9,743.0,8.3,3.0,1.0,4.0,3.0,0.0,2.0,2.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Diego Carlos,br BRA,DF,31.0,10,8,830.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Axel Disasi,fr FRA,DF,26.0,7,5,490.0,5.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Lamare Bogarde,nl NED,"DF,MF",20.0,8,5,476.0,5.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Andrés García,es ESP,"DF,MF",21.0,7,5,318.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Jáder Durán,co COL,FW,20.0,20,4,638.0,7.1,7.0,0.0,7.0,7.0,0.0,0.0,3.0,1.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Marcus Rashford,eng ENG,FW,26.0,10,4,444.0,4.9,2.0,2.0,4.0,1.0,1.0,1.0,0.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Ross Barkley,eng ENG,MF,30.0,20,3,581.0,6.5,3.0,1.0,4.0,3.0,0.0,0.0,3.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Jaden Philogene Bidace,eng ENG,"FW,MF",22.0,11,2,332.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Donyell Malen,nl NED,FW,25.0,14,2,305.0,3.4,3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Robin Olsen,se SWE,GK,34.0,4,1,226.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Kosta Nedeljković,rs SRB,DF,18.0,5,0,126.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Emi Buendía,ar ARG,"MF,FW",27.0,12,0,98.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Benjamin Broggio,eng ENG,FW,17.0,0,0,,,,,,,,,,,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Joe Gauci,au AUS,GK,24.0,0,0,,,,,,,,,,,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Jamaldeen Jimoh,eng ENG,MF,17.0,0,0,,,,,,,,,,,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Sil Swinkels,nl NED,DF,20.0,0,0,,,,,,,,,,,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Kadan Young,eng ENG,MF,18.0,0,0,,,,,,,,,,,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Oliwier Zych,pl POL,GK,20.0,0,0,,,,,,,,,,,Matches,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Squad Total,,,27.0,38,418,3420.0,38.0,56.0,45.0,101.0,53.0,3.0,6.0,76.0,4.0,,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Opponent Total,,,26.3,38,418,3420.0,38.0,51.0,36.0,87.0,49.0,2.0,3.0,104.0,2.0,,Aston Villa,https://fbref.com/en/squads/8602292d/2024-2025/Aston-Villa-Stats,
+Matz Sels,be BEL,GK,32.0,38,38,3420.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Nikola Milenković,rs SRB,DF,26.0,37,37,3330.0,37.0,5.0,2.0,7.0,5.0,0.0,0.0,4.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Murillo,br BRA,DF,22.0,36,36,3188.0,35.4,2.0,0.0,2.0,2.0,0.0,0.0,6.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Ola Aina,ng NGA,DF,27.0,35,35,2995.0,33.3,2.0,1.0,3.0,2.0,0.0,0.0,5.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Chris Wood,nz NZL,FW,32.0,36,35,2959.0,32.9,20.0,3.0,23.0,17.0,3.0,3.0,1.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Morgan Gibbs-White,eng ENG,MF,24.0,34,34,2803.0,31.1,7.0,8.0,15.0,7.0,0.0,0.0,11.0,1.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Elliot Anderson,eng ENG,MF,21.0,37,33,2728.0,30.3,2.0,6.0,8.0,2.0,0.0,0.0,10.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Anthony Elanga,se SWE,"FW,MF",22.0,38,31,2501.0,27.8,6.0,11.0,17.0,6.0,0.0,0.0,1.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Neco Williams,wls WAL,DF,23.0,35,28,2594.0,28.8,1.0,3.0,4.0,1.0,0.0,0.0,7.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Callum Hudson-Odoi,eng ENG,"FW,MF",23.0,31,25,2194.0,24.4,5.0,2.0,7.0,5.0,0.0,0.0,2.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Nicolás Domínguez,ar ARG,"MF,FW",26.0,34,23,1963.0,21.8,0.0,1.0,1.0,0.0,0.0,0.0,9.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Ryan Yates,eng ENG,MF,26.0,35,18,1915.0,21.3,2.0,1.0,3.0,2.0,0.0,0.0,10.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Álex Moreno,es ESP,"DF,MF",31.0,15,11,955.0,10.6,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Ibrahim Sangaré,ci CIV,MF,26.0,13,7,590.0,6.6,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Morato,br BRA,DF,23.0,26,6,907.0,10.1,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Jota Silva,pt POR,"FW,MF",24.0,31,5,854.0,9.5,3.0,1.0,4.0,3.0,0.0,0.0,5.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+James Ward-Prowse,eng ENG,MF,29.0,9,5,400.0,4.4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Danilo,br BRA,"MF,FW",23.0,8,5,275.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Taiwo Awoniyi,ng NGA,FW,26.0,26,3,416.0,4.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Ramón Sosa,py PAR,"FW,MF",24.0,19,1,295.0,3.3,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Willy Boly,ci CIV,DF,33.0,6,1,150.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Harry Toffolo,eng ENG,DF,28.0,4,1,137.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Eric da Silva Moreira,de GER,"MF,DF",18.0,2,0,30.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Zach Abbott,eng ENG,DF,18.0,0,0,,,,,,,,,,,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Wayne Hennessey,wls WAL,GK,37.0,0,0,,,,,,,,,,,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Carlos Miguel,br BRA,GK,25.0,0,0,,,,,,,,,,,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Andrew Omobamidele,ie IRL,DF,22.0,0,0,,,,,,,,,,,Matches,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Squad Total,,,26.1,38,418,3420.0,38.0,57.0,42.0,99.0,54.0,3.0,3.0,90.0,2.0,,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Opponent Total,,,26.2,38,418,3420.0,38.0,46.0,35.0,81.0,43.0,3.0,3.0,104.0,2.0,,Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats,
+Bart Verbruggen,nl NED,GK,21,,36,3240,36.0,0,1,1,0,0,0,5,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,36
+Jan Paul van Hecke,nl NED,DF,24,,33,2958,32.9,1,1,2,1,0,0,8,1,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,34
+Carlos Baleba,cm CMR,MF,20,,31,2661,29.6,3,1,4,3,0,0,8,1,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,34
+Kaoru Mitoma,jp JPN,"FW,MF",27,,28,2603,28.9,10,4,14,10,0,0,1,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,36
+Pervis Estupiñán,ec ECU,DF,26,,26,2402,26.7,1,1,2,1,0,0,5,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,30
+Danny Welbeck,eng ENG,FW,33,,24,2115,23.5,10,4,14,9,1,1,5,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,30
+Lewis Dunk,eng ENG,DF,32,,23,2083,23.1,0,0,0,0,0,0,5,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,25
+João Pedro,br BRA,"FW,MF",22,,23,1948,21.6,10,6,16,5,5,5,4,1,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,27
+Yasin Ayari,se SWE,MF,20,,22,1965,21.8,2,1,3,2,0,0,3,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,34
+Jack Hinshelwood,eng ENG,"MF,DF",19,,22,1842,20.5,5,2,7,5,0,0,5,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,26
+Yankuba Minteh,gm GAM,"FW,MF",20,,20,1838,20.4,6,4,10,6,0,0,6,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,32
+Joël Veltman,nl NED,DF,32,,19,1697,18.9,0,0,0,0,0,0,5,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,21
+Georginio Rutter,fr FRA,"MF,FW",22,,19,1656,18.4,5,3,8,5,0,0,2,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,28
+Simon Adingra,ci CIV,"FW,MF",22,,12,1097,12.2,2,2,4,2,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,29
+Matt O'Riley,dk DEN,MF,23,,11,938,10.4,2,2,4,1,1,1,1,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,21
+Adam Webster,eng ENG,DF,29,,11,887,9.9,0,0,0,0,0,0,1,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,14
+Mats Wieffer,nl NED,"DF,MF",24,,10,1015,11.3,1,3,4,1,0,0,6,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,25
+Igor,br BRA,DF,26,,10,961,10.7,0,0,0,0,0,0,4,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,13
+Tariq Lamptey,gh GHA,DF,23,,10,860,9.6,2,2,4,2,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,15
+Brajan Gruda,de GER,"MF,FW",20,,8,687,7.6,1,4,5,1,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,21
+Ferdi Kadioglu,tr TUR,"DF,MF",24,,5,385,4.3,1,0,1,1,0,0,1,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,6
+Diego Gómez,py PAR,MF,21,,4,516,5.7,1,0,1,1,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,16
+James Milner,eng ENG,MF,38,,3,170,1.9,0,0,0,0,0,0,1,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,4
+Julio Enciso,py PAR,"MF,FW",20,,2,294,3.3,0,0,0,0,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,12
+Evan Ferguson,ie IRL,FW,19,,2,246,2.7,1,0,1,1,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,13
+Jason Steele,eng ENG,GK,33,,2,180,2.0,0,0,0,0,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,2
+Solly March,eng ENG,"FW,MF",30,,1,168,1.9,0,0,0,0,0,0,2,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,8
+Billy Gilmour,sct SCO,MF,23,,1,98,1.1,0,0,0,0,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,2
+Eiran Cashin,ie IRL,DF,22,,0,20,0.2,0,0,0,0,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,2
+Jakub Moder,pl POL,MF,25,,0,11,0.1,0,0,0,0,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,4
+,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,Playing Time
+Player,Nation,Pos,Age,,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,MP
+Jeremy Sarmiento,ec ECU,MF,22,,0,9,0.1,0,0,0,0,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,1
+Harry Howell,eng ENG,FW,15,,0,7,0.1,0,0,0,0,0,0,0,0,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,1
+Valentín Barco,ar ARG,"DF,MF",20,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Killian Cahill,ie IRL,GK,20,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Joe Knight,eng ENG,MF,18,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Ruairi Mcconville,nir NIR,DF,19,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Mark O'Mahony,ie IRL,FW,19,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Carl Rushworth,eng ENG,GK,23,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Imari Samuels,eng ENG,DF,21,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Freddie Simmonds,eng ENG,DF,16,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Jacob Slater,ie IRL,DF,19,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Charlie Tasker,eng ENG,DF,18,,0,,,,,,,,,,,Matches,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,0
+Squad Total,,,24.8,,418,3420,38.0,64,41,105,57,7,7,78,3,,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,38
+Opponent Total,,,26.2,,418,3420,38.0,57,39,96,48,9,9,93,5,,Brighton,https://fbref.com/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats,38
+Milos Kerkez,hu HUN,DF,20,38,38,3336,37.1,2,5,7,2,0,0,4,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Antoine Semenyo,gh GHA,FW,24,37,36,3203,35.6,11,5,16,11,0,0,9,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Illia Zabarnyi,ua UKR,DF,21,36,35,3109,34.5,0,1,1,0,0,0,4,1,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Lewis Cook,eng ENG,"MF,DF",27,36,32,2978,33.1,1,3,4,1,0,0,8,1,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Kepa Arrizabalaga,es ESP,GK,29,31,31,2790,31.0,0,0,0,0,0,0,3,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Justin Kluivert,nl NED,MF,25,34,29,2340,26.0,12,6,18,6,6,6,8,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Evanilson,br BRA,FW,24,31,28,2319,25.8,10,1,11,10,0,1,1,1,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Ryan Christie,sct SCO,MF,29,29,27,2117,23.5,2,3,5,2,0,0,9,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Dean Huijsen,es ESP,DF,19,32,26,2427,27.0,3,2,5,3,0,0,10,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Dango Ouattara,bf BFA,FW,22,32,21,2005,22.3,7,4,11,7,0,0,3,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Tyler Adams,us USA,MF,25,28,21,1965,21.8,0,3,3,0,0,0,7,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Marcus Tavernier,eng ENG,"FW,MF",25,29,20,1939,21.5,3,5,8,3,0,0,6,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Adam Smith,eng ENG,DF,33,25,19,1590,17.7,0,0,0,0,0,0,7,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Marcos Senesi,ar ARG,DF,27,17,13,1106,12.3,0,0,0,0,0,0,5,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+David Brooks,wls WAL,"FW,MF",27,29,9,960,10.7,2,0,2,2,0,0,3,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Alex Scott,eng ENG,MF,20,20,8,755,8.4,0,0,0,0,0,0,3,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Julian Araujo,mx MEX,DF,22,12,7,497,5.5,0,0,0,0,0,0,2,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+James Hill,eng ENG,DF,22,10,6,448,5.0,0,1,1,0,0,0,1,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Mark Travers,ie IRL,GK,25,5,5,450,5.0,0,0,0,0,0,0,0,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Enes Ünal,tr TUR,"FW,MF",27,17,2,345,3.8,2,1,3,2,0,0,2,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Neto,br BRA,GK,35,2,2,180,2.0,0,0,0,0,0,0,0,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Luis Sinisterra,co COL,"FW,MF",25,12,1,236,2.6,1,1,2,1,0,0,0,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Philip Billing,dk DEN,MF,28,10,1,184,2.0,0,0,0,0,0,0,1,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Max Aarons,eng ENG,DF,24,3,1,86,1.0,0,0,0,0,0,0,0,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Daniel Jebbison,ca CAN,FW,20,16,0,119,1.3,1,0,1,1,0,0,1,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Ben Winterburn,eng ENG,"MF,FW",19,4,0,24,0.3,0,0,0,0,0,0,0,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Julio Soler,ar ARG,"DF,FW",19,3,0,11,0.1,0,0,0,0,0,0,0,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Remy Rees-Dottin,eng ENG,FW,18,1,0,1,0.0,0,0,0,0,0,0,0,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Zain Silcott-Duberry,ms MSR,FW,19,1,0,1,0.0,0,0,0,0,0,0,0,0,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Daniel Adu-Adjei,eng ENG,FW,19,0,0,,,,,,,,,,,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Matai Akinmboni,us USA,DF,17,0,0,,,,,,,,,,,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Jaidon Anthony,eng ENG,"FW,MF",24,0,0,,,,,,,,,,,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Will Dennis,eng ENG,GK,24,0,0,,,,,,,,,,,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Archie Harris,wls WAL,DF,19,0,0,,,,,,,,,,,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Hamed Junior Traorè,ci CIV,"FW,MF",24,0,0,,,,,,,,,,,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Callan Mckenna,sct SCO,GK,17,0,0,,,,,,,,,,,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Dominic Sadi,eng ENG,MF,20,0,0,,,,,,,,,,,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Maxwell Wellings,eng ENG,DF,19,0,0,,,,,,,,,,,Matches,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Squad Total,,,25.1,38,418,3420,38.0,57,41,98,51,6,7,97,3,,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Opponent Total,,,26.4,38,418,3420,38.0,46,36,82,42,4,4,94,5,,Bournemouth,https://fbref.com/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats,
+Nathan Collins,ie IRL,DF,23.0,38,38,3420.0,38.0,2.0,3.0,5.0,2.0,0.0,0.0,5.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Bryan Mbeumo,cm CMR,FW,24.0,38,38,3414.0,37.9,20.0,7.0,27.0,15.0,5.0,6.0,3.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Mark Flekken,nl NED,GK,31.0,37,37,3275.0,36.4,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Keane Lewis-Potter,eng ENG,"DF,FW",23.0,38,36,3093.0,34.4,1.0,3.0,4.0,1.0,0.0,0.0,7.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Yoane Wissa,cd COD,FW,27.0,35,34,2919.0,32.4,19.0,4.0,23.0,19.0,0.0,0.0,5.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Mikkel Damsgaard,dk DEN,"MF,FW",24.0,38,34,2911.0,32.3,2.0,10.0,12.0,2.0,0.0,0.0,2.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Christian Nørgaard,dk DEN,MF,30.0,34,34,2819.0,31.3,5.0,4.0,9.0,5.0,0.0,0.0,8.0,1.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Sepp van den Berg,nl NED,DF,22.0,31,29,2586.0,28.7,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Vitaly Janelt,de GER,MF,26.0,32,27,2254.0,25.0,1.0,3.0,4.0,1.0,0.0,0.0,3.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Kevin Schade,de GER,FW,22.0,38,26,2293.0,25.5,11.0,2.0,13.0,11.0,0.0,0.0,3.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Ethan Pinnock,jm JAM,DF,31.0,22,21,1913.0,21.3,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Kristoffer Ajer,no NOR,DF,26.0,24,17,1438.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Yehor Yarmoliuk,ua UKR,MF,20.0,31,15,1450.0,16.1,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Mads Roerslev,dk DEN,DF,25.0,19,11,1101.0,12.2,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Mathias Jensen,dk DEN,MF,28.0,24,8,862.0,9.6,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Michael Kayode,it ITA,DF,20.0,12,6,528.0,5.9,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Fabio Carvalho,pt POR,"FW,MF",21.0,19,3,455.0,5.1,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Ben Mee,eng ENG,DF,34.0,7,2,183.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Thiago,br BRA,"FW,MF",23.0,8,1,175.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Hákon Valdimarsson,is ISL,GK,22.0,2,1,145.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Edmond-Paris Maghoma,eng ENG,"MF,FW",23.0,8,0,119.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Rico Henry,eng ENG,DF,27.0,5,0,99.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Yunus Emre Konak,tr TUR,"FW,MF",18.0,10,0,42.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Kim Jisoo,kr KOR,DF,19.0,3,0,30.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Frank Onyeka,ng NGA,MF,26.0,2,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Gustavo Nunes,br BRA,"FW,MF",18.0,3,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Jayden Meghoma,eng ENG,DF,18.0,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Ryan Trevitt,eng ENG,MF,21.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Benjamin Arthur,eng ENG,DF,18.0,0,0,,,,,,,,,,,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Julian Eyestone,us USA,GK,18.0,0,0,,,,,,,,,,,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Benjamin Fredrick,ng NGA,DF,19.0,0,0,,,,,,,,,,,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Aaron Hickey,sct SCO,"DF,MF",22.0,0,0,,,,,,,,,,,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Iwan Morgan,wls WAL,FW,18.0,0,0,,,,,,,,,,,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Myles Peart-Harris,eng ENG,MF,21.0,0,0,,,,,,,,,,,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Tony Yogane,eng ENG,MF,18.0,0,0,,,,,,,,,,,Matches,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Squad Total,,,25.8,38,418,3420.0,38.0,65.0,44.0,109.0,60.0,5.0,6.0,62.0,1.0,,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Opponent Total,,,26.4,38,418,3420.0,38.0,54.0,42.0,96.0,53.0,1.0,1.0,82.0,3.0,,Brentford,https://fbref.com/en/squads/cd051869/2024-2025/Brentford-Stats,
+Bernd Leno,de GER,GK,32.0,38,38,3420.0,38.0,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Antonee Robinson,us USA,DF,26.0,36,35,3167.0,35.2,0.0,10.0,10.0,0.0,0.0,0.0,8.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Alex Iwobi,ng NGA,"FW,MF",28.0,38,35,2981.0,33.1,9.0,6.0,15.0,9.0,0.0,0.0,1.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Calvin Bassey,ng NGA,DF,24.0,35,34,3074.0,34.2,1.0,0.0,1.0,1.0,0.0,0.0,7.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Raúl Jiménez,mx MEX,FW,33.0,38,30,2494.0,27.7,12.0,3.0,15.0,9.0,3.0,3.0,4.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Joachim Andersen,dk DEN,DF,28.0,29,29,2583.0,28.7,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Saša Lukić,rs SRB,MF,27.0,30,28,2344.0,26.0,0.0,2.0,2.0,0.0,0.0,0.0,12.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Sander Berge,no NOR,MF,26.0,31,26,2224.0,24.7,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Emile Smith Rowe,eng ENG,MF,24.0,34,25,2043.0,22.7,6.0,3.0,9.0,6.0,0.0,0.0,3.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Andreas Pereira,br BRA,MF,28.0,33,25,2013.0,22.4,2.0,4.0,6.0,2.0,0.0,1.0,7.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Kenny Tete,nl NED,DF,28.0,22,21,1774.0,19.7,0.0,2.0,2.0,0.0,0.0,0.0,5.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Adama Traoré,es ESP,"FW,MF",28.0,36,18,1772.0,19.7,2.0,7.0,9.0,2.0,0.0,0.0,3.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Timothy Castagne,be BEL,DF,28.0,24,17,1649.0,18.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Issa Diop,fr FRA,DF,27.0,21,15,1339.0,14.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Harry Wilson,wls WAL,"FW,MF",27.0,25,12,1162.0,12.9,6.0,1.0,7.0,6.0,0.0,0.0,2.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Rodrigo Muniz,br BRA,FW,23.0,31,8,964.0,10.7,8.0,1.0,9.0,8.0,0.0,0.0,1.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Ryan Sessegnon,eng ENG,"FW,DF",24.0,16,7,580.0,6.4,4.0,2.0,6.0,4.0,0.0,0.0,1.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Reiss Nelson,eng ENG,FW,24.0,11,5,487.0,5.4,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Jorge Cuenca,es ESP,DF,24.0,8,4,351.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Tom Cairney,sct SCO,MF,33.0,25,3,628.0,7.0,2.0,0.0,2.0,2.0,0.0,0.0,3.0,1.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Willian,br BRA,"FW,MF",35.0,10,2,257.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Joshua King,eng ENG,MF,17.0,8,1,130.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Harrison Reed,eng ENG,MF,29.0,12,0,108.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Martial Godo,eng ENG,"FW,DF",21.0,2,0,24.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Carlos Vinícius,br BRA,"MF,FW",29.0,3,0,16.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Jay Stansfield,eng ENG,MF,21.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Samuel Amissah,eng ENG,DF,17.0,0,0,,,,,,,,,,,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Steven Benda,de GER,GK,25.0,0,0,,,,,,,,,,,Matches,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Squad Total,,,28.1,38,418,3420.0,38.0,53.0,44.0,97.0,50.0,3.0,4.0,80.0,2.0,,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Opponent Total,,,26.3,38,418,3420.0,38.0,52.0,40.0,92.0,49.0,3.0,4.0,67.0,3.0,,Fulham,https://fbref.com/en/squads/fd962109/2024-2025/Fulham-Stats,
+Dean Henderson,eng ENG,GK,27,38,38,3420,38.0,0,0,0,0,0,0,3,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Daniel Muñoz,co COL,DF,28,37,37,3228,35.9,4,5,9,4,0,0,10,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Tyrick Mitchell,eng ENG,DF,24,37,37,3092,34.4,0,5,5,0,0,0,2,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Maxence Lacroix,fr FRA,DF,24,35,35,3116,34.6,1,1,2,1,0,0,5,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Marc Guéhi,eng ENG,DF,24,34,34,3059,34.0,3,2,5,3,0,0,9,1,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Jean-Philippe Mateta,fr FRA,FW,27,37,33,2648,29.4,14,2,16,12,2,2,2,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Eberechi Eze,eng ENG,"MF,FW",26,34,31,2588,28.8,8,8,16,7,1,2,1,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Ismaila Sarr,sn SEN,MF,26,38,30,2711,30.1,8,6,14,8,0,0,4,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Jefferson Lerma,co COL,"MF,DF",29,33,26,2274,25.3,0,1,1,0,0,0,9,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Will Hughes,eng ENG,MF,29,33,24,2108,23.4,0,3,3,0,0,0,11,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Chris Richards,us USA,DF,24,24,22,1922,21.4,1,0,1,1,0,0,4,1,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Adam Wharton,eng ENG,MF,20,20,16,1318,14.6,0,2,2,0,0,0,2,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Daichi Kamada,jp JPN,MF,27,34,15,1564,17.4,0,0,0,0,0,0,4,1,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Trevoh Chalobah,eng ENG,DF,25,12,12,1060,11.8,3,0,3,3,0,0,1,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Eddie Nketiah,eng ENG,"FW,MF",25,29,9,1034,11.5,3,1,4,3,0,0,6,1,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Nathaniel Clyne,eng ENG,"DF,MF",33,13,5,483,5.4,0,0,0,0,0,0,1,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Justin Devenny,nir NIR,MF,20,23,4,507,5.6,1,1,2,1,0,0,1,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Cheick Doucouré,ml MLI,MF,24,13,4,452,5.0,0,0,0,0,0,0,1,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Ben Chilwell,eng ENG,DF,27,8,1,259,2.9,1,0,1,1,0,0,1,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Romain Esse,eng ENG,MF,19,7,1,138,1.5,1,1,2,1,0,0,0,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Odsonne Édouard,fr FRA,"MF,FW",26,2,1,115,1.3,0,0,0,0,0,0,0,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Joachim Andersen,dk DEN,DF,28,1,1,90,1.0,0,0,0,0,0,0,1,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Chadi Riad,ma MAR,DF,21,1,1,90,1.0,0,0,0,0,0,0,0,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Joel Ward,eng ENG,DF,34,2,1,71,0.8,0,0,0,0,0,0,1,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Jeffrey Schlupp,gh GHA,"MF,DF",31,12,0,103,1.1,0,0,0,0,0,0,0,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Matheus França,br BRA,"MF,FW",20,4,0,55,0.6,1,0,1,1,0,0,0,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Jordan Ayew,gh GHA,"FW,MF",32,1,0,21,0.2,0,0,0,0,0,0,1,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Caleb Kporha,eng ENG,DF,18,2,0,13,0.1,0,0,0,0,0,0,0,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Asher Agbinone,eng ENG,MF,18,2,0,6,0.1,0,0,0,0,0,0,0,0,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Naouirou Ahamada,fr FRA,MF,22,0,0,,,,,,,,,,,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Rob Holding,eng ENG,DF,28,0,0,,,,,,,,,,,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Sam Johnstone,eng ENG,GK,31,0,0,,,,,,,,,,,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Zachariah Marsh,eng ENG,FW,18,0,0,,,,,,,,,,,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Remi Matthews,eng ENG,GK,30,0,0,,,,,,,,,,,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Kaden Rodney,eng ENG,"DF,MF",19,0,0,,,,,,,,,,,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Matt Turner,us USA,GK,30,0,0,,,,,,,,,,,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Franco Umeh-Chibueze,ie IRL,MF,19,0,0,,,,,,,,,,,Matches,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Squad Total,,,26.2,38,418,3420,38.0,49,38,87,46,3,4,80,4,,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Opponent Total,,,26.1,38,418,3420,38.0,48,39,87,47,1,2,84,4,,Crystal Palace,https://fbref.com/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats,
+Jordan Pickford,eng ENG,GK,30.0,38,38,3420.0,38.0,0.0,1.0,1.0,0.0,0.0,0.0,7.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Vitaliy Mykolenko,ua UKR,DF,25.0,35,35,3082.0,34.2,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Idrissa Gana Gueye,sn SEN,MF,34.0,37,35,3063.0,34.0,0.0,3.0,3.0,0.0,0.0,0.0,9.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+James Tarkowski,eng ENG,DF,31.0,33,33,2922.0,32.5,1.0,1.0,2.0,1.0,0.0,0.0,6.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Abdoulaye Doucouré,ml MLI,MF,31.0,33,31,2564.0,28.5,3.0,2.0,5.0,3.0,0.0,0.0,5.0,1.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Iliman Ndiaye,sn SEN,FW,24.0,33,29,2430.0,27.0,9.0,0.0,9.0,7.0,2.0,2.0,3.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Jarrad Branthwaite,eng ENG,DF,22.0,30,28,2511.0,27.9,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Jack Harrison,eng ENG,FW,27.0,34,24,2076.0,23.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Ashley Young,eng ENG,DF,39.0,32,19,1875.0,20.8,1.0,3.0,4.0,1.0,0.0,0.0,7.0,1.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Dominic Calvert-Lewin,eng ENG,FW,27.0,26,19,1609.0,17.9,3.0,1.0,4.0,3.0,0.0,0.0,2.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+James Garner,eng ENG,"MF,DF",23.0,21,17,1594.0,17.7,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Jake O'Brien,ie IRL,DF,23.0,20,17,1571.0,17.5,2.0,0.0,2.0,2.0,0.0,0.0,5.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Beto,gw GNB,FW,26.0,30,15,1534.0,17.0,8.0,0.0,8.0,8.0,0.0,0.0,2.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Dwight McNeil,eng ENG,"MF,FW",24.0,21,15,1371.0,15.2,4.0,6.0,10.0,4.0,0.0,0.0,1.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Jesper Lindstrøm,dk DEN,FW,24.0,25,15,1239.0,13.8,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Orel Mangala,be BEL,MF,26.0,19,14,1261.0,14.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Michael Keane,eng ENG,DF,31.0,14,11,1049.0,11.7,3.0,0.0,3.0,3.0,0.0,0.0,5.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Carlos Alcaraz,ar ARG,"FW,MF",21.0,15,7,764.0,8.5,2.0,3.0,5.0,2.0,0.0,0.0,4.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Tim Iroegbunam,eng ENG,MF,21.0,18,5,574.0,6.4,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Armando Broja,al ALB,FW,22.0,10,4,334.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Nathan Patterson,sct SCO,DF,22.0,10,3,347.0,3.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Séamus Coleman,ie IRL,DF,35.0,5,3,215.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Roman Dixon,eng ENG,DF,19.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Harrison Armstrong,eng ENG,MF,17.0,3,0,48.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Youssef Chermiti,pt POR,"FW,MF",20.0,4,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Mason Holgate,jm JAM,"FW,DF",27.0,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Callum Bates,eng ENG,MF,18.0,0,0,,,,,,,,,,,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Asmir Begović,ba BIH,GK,37.0,0,0,,,,,,,,,,,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Coby Ebere,de GER,MF,18.0,0,0,,,,,,,,,,,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Isaac Heath,eng ENG,MF,19.0,0,0,,,,,,,,,,,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Neal Maupay,fr FRA,"FW,MF",27.0,0,0,,,,,,,,,,,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Jenson Metcalfe,eng ENG,MF,19.0,0,0,,,,,,,,,,,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Martin Sherif,nl NED,FW,18.0,0,0,,,,,,,,,,,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+João Virgínia,pt POR,GK,24.0,0,0,,,,,,,,,,,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Reece Welch,eng ENG,DF,20.0,0,0,,,,,,,,,,,Matches,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Squad Total,,,28.0,38,418,3420.0,38.0,39.0,27.0,66.0,37.0,2.0,2.0,82.0,2.0,,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Opponent Total,,,26.2,38,418,3420.0,38.0,44.0,35.0,79.0,44.0,0.0,2.0,46.0,2.0,,Everton,https://fbref.com/en/squads/d3fd31cc/2024-2025/Everton-Stats,
+Max Kilman,eng ENG,DF,27.0,,38,3348.0,37.2,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,38
+Aaron Wan-Bissaka,cd COD,DF,26.0,,35,3154.0,35.0,2.0,5.0,7.0,2.0,0.0,0.0,1.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,36
+Jarrod Bowen,eng ENG,"FW,MF",27.0,,34,2973.0,33.0,13.0,8.0,21.0,12.0,1.0,1.0,1.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,34
+Mohammed Kudus,gh GHA,"FW,MF",23.0,,31,2590.0,28.8,5.0,3.0,8.0,5.0,0.0,0.0,2.0,1.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,32
+Tomáš Souček,cz CZE,MF,29.0,,30,2567.0,28.5,9.0,1.0,10.0,9.0,0.0,0.0,8.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,35
+Lucas Paquetá,br BRA,"MF,FW",26.0,,27,2380.0,26.4,4.0,0.0,4.0,2.0,2.0,2.0,10.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,33
+Emerson Palmieri,it ITA,DF,29.0,,26,2113.0,23.5,2.0,1.0,3.0,2.0,0.0,0.0,5.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,31
+Alphonse Areola,fr FRA,GK,31.0,,25,2260.0,25.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,26
+Konstantinos Mavropanos,gr GRE,DF,26.0,,21,2045.0,22.7,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,33
+Jean-Clair Todibo,fr FRA,DF,24.0,,20,1825.0,20.3,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,27
+Edson Álvarez,mx MEX,MF,26.0,,20,1772.0,19.7,0.0,1.0,1.0,0.0,0.0,0.0,9.0,1.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,28
+Guido Rodríguez,ar ARG,MF,30.0,,16,1149.0,12.8,0.0,1.0,1.0,0.0,0.0,0.0,6.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,23
+Carlos Soler,es ESP,"MF,FW",27.0,,14,1409.0,15.7,1.0,1.0,2.0,1.0,0.0,0.0,6.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,31
+Łukasz Fabiański,pl POL,GK,39.0,,13,1160.0,12.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,14
+James Ward-Prowse,eng ENG,MF,29.0,,12,1039.0,11.5,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,15
+Vladimír Coufal,cz CZE,DF,31.0,,11,1067.0,11.9,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,22
+Michail Antonio,jm JAM,FW,34.0,,11,836.0,9.3,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,14
+Aaron Cresswell,eng ENG,DF,34.0,,10,824.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,18
+Crysencio Summerville,nl NED,"FW,MF",22.0,,7,786.0,8.7,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,19
+Oliver Scarles,eng ENG,"DF,FW",18.0,,7,665.0,7.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,15
+Niclas Füllkrug,de GER,FW,31.0,,6,790.0,8.8,3.0,2.0,5.0,3.0,0.0,0.0,2.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,18
+Danny Ings,eng ENG,"FW,MF",32.0,,1,284.0,3.2,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,15
+Andy Irving,sct SCO,MF,24.0,,1,166.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,10
+Evan Ferguson,ie IRL,FW,19.0,,1,156.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,8
+Luis Guilherme,br BRA,"MF,FW",18.0,,1,150.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,12
+Lewis Orford,eng ENG,MF,18.0,,0,49.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,2
+Kaelan Casey,eng ENG,DF,19.0,,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,1
+Wes Foderingham,eng ENG,GK,33.0,,0,,,,,,,,,,,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,0
+Ezra Mayers,bb BRB,DF,17.0,,0,,,,,,,,,,,Matches,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,0
+Squad Total,,,28.1,,418,3420.0,38.0,43.0,29.0,72.0,40.0,3.0,3.0,82.0,3.0,,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,38
+Opponent Total,,,26.1,,418,3420.0,38.0,59.0,45.0,104.0,56.0,3.0,3.0,56.0,1.0,,West Ham,https://fbref.com/en/squads/7c21e445/2024-2025/West-Ham-United-Stats,38
+Bruno Fernandes,pt POR,MF,29,36,35,3018,33.5,8,10,18,5,3,3,5,2,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+André Onana,cm CMR,GK,28,34,34,3060,34.0,0,0,0,0,0,0,0,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Noussair Mazraoui,ma MAR,DF,26,37,34,2838,31.5,0,1,1,0,0,0,3,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Diogo Dalot,pt POR,DF,25,33,31,2814,31.3,0,3,3,0,0,0,5,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Matthijs de Ligt,nl NED,DF,24,29,25,2123,23.6,2,0,2,2,0,0,3,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Alejandro Garnacho,ar ARG,"MF,FW",20,36,23,2199,24.4,6,2,8,6,0,0,3,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Rasmus Højlund,dk DEN,FW,21,32,23,2004,22.3,4,0,4,4,0,0,2,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Manuel Ugarte,uy URU,MF,23,29,22,1785,19.8,1,2,3,1,0,0,11,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Amad Diallo,ci CIV,"MF,FW",22,26,20,1901,21.1,8,6,14,8,0,0,5,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Lisandro Martínez,ar ARG,DF,26,20,20,1751,19.5,2,1,3,2,0,0,7,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Harry Maguire,eng ENG,DF,31,27,19,1758,19.5,1,0,1,1,0,0,7,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Kobbie Mainoo,eng ENG,MF,19,25,19,1651,18.3,0,0,0,0,0,0,5,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Casemiro,br BRA,MF,32,24,18,1494,16.6,1,0,1,1,0,0,5,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Joshua Zirkzee,nl NED,"FW,MF",23,32,14,1402,15.6,3,1,4,3,0,0,2,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Leny Yoro,fr FRA,DF,18,21,12,1165,12.9,0,0,0,0,0,0,5,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Marcus Rashford,eng ENG,"FW,MF",26,15,12,978,10.9,4,1,5,4,0,0,2,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Christian Eriksen,dk DEN,MF,32,23,11,1061,11.8,1,2,3,0,1,1,4,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Patrick Dorgu,dk DEN,DF,19,12,10,842,9.4,0,0,0,0,0,0,3,1,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Mason Mount,eng ENG,MF,25,17,8,622,6.9,1,0,1,1,0,0,3,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Victor Lindelöf,se SWE,DF,30,16,6,704,7.8,0,0,0,0,0,0,1,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Altay Bayındır,tr TUR,GK,26,4,4,360,4.0,0,0,0,0,0,0,0,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Luke Shaw,eng ENG,DF,29,7,4,349,3.9,0,0,0,0,0,0,1,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Harry Amass,eng ENG,DF,17,5,4,346,3.8,0,0,0,0,0,0,0,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Jonny Evans,nir NIR,DF,36,7,3,315,3.5,0,0,0,0,0,0,1,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Ayden Heaven,eng ENG,DF,17,4,2,170,1.9,0,0,0,0,0,0,1,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Tyler Fredricson,eng ENG,DF,19,2,2,165,1.8,0,0,0,0,0,0,0,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Tyrell Malacia,nl NED,DF,24,3,2,100,1.1,0,0,0,0,0,0,1,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Chidozie Obi-Martin,dk DEN,FW,16,7,1,165,1.8,0,0,0,0,0,0,1,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Toby Collyer,eng ENG,MF,20,6,0,179,2.0,0,0,0,0,0,0,0,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Antony,br BRA,"DF,MF",24,8,0,141,1.6,0,0,0,0,0,0,0,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Scott McTominay,sct SCO,MF,27,2,0,19,0.2,0,0,0,0,0,0,0,0,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Jayce Fitzgerald,eng ENG,MF,17,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Jack Fletcher,eng ENG,MF,17,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Hubert Graczyk,pl POL,GK,21,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Elyh Harrison,eng ENG,GK,18,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Tom Heaton,eng ENG,GK,38,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Sekou Koné,ml MLI,MF,18,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Godwill Kukonki,eng ENG,DF,16,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Dermot Mee,nir NIR,GK,21,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Jack Moorhouse,eng ENG,MF,18,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Ethan Wheatley,eng ENG,FW,18,0,0,,,,,,,,,,,Matches,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Squad Total,,,25.5,38,418,3420,38.0,42,29,71,38,4,4,86,3,,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Opponent Total,,,26.4,38,418,3420,38.0,52,36,88,49,3,4,71,3,,Manchester Utd,https://fbref.com/en/squads/19538871/2024-2025/Manchester-United-Stats,
+Rayan Aït-Nouri,dz ALG,DF,23,37,37,3109,34.5,4,7,11,4,0,0,7,1,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+João Gomes,br BRA,MF,23,36,35,2974,33.0,3,1,4,3,0,0,11,1,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Nélson Semedo,pt POR,DF,30,34,32,2886,32.1,0,4,4,0,0,0,8,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+André,br BRA,MF,23,33,31,2472,27.5,0,0,0,0,0,0,7,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Toti Gomes,pt POR,DF,25,31,30,2614,29.0,0,1,1,0,0,0,7,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Jørgen Strand Larsen,no NOR,FW,24,35,30,2587,28.7,14,4,18,14,0,0,4,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+José Sá,pt POR,GK,31,29,29,2609,29.0,0,0,0,0,0,0,2,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Matheus Cunha,br BRA,"MF,FW",25,33,29,2597,28.9,15,6,21,15,0,0,4,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Matt Doherty,ie IRL,DF,32,30,25,2109,23.4,2,1,3,2,0,0,6,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Jean-Ricner Bellegarde,ht HAI,"MF,FW",26,35,20,1677,18.6,2,7,9,2,0,0,3,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Santiago Bueno,uy URU,DF,25,29,18,1687,18.7,0,0,0,0,0,0,2,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Emmanuel Agbadou,ci CIV,DF,27,16,16,1410,15.7,1,0,1,1,0,0,3,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Mario Lemina,ga GAB,"MF,DF",30,17,15,1364,15.2,1,3,4,1,0,0,4,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Marshall Munetsi,zw ZIM,"MF,FW",28,14,12,1078,12.0,2,1,3,2,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Gonçalo Guedes,pt POR,"MF,FW",27,29,10,995,11.1,2,4,6,2,0,0,1,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Craig Dawson,eng ENG,DF,34,15,10,971,10.8,0,0,0,0,0,0,2,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Pablo Sarabia,es ESP,"MF,FW",32,23,7,814,9.0,3,2,5,3,0,0,3,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Rodrigo Gomes,pt POR,"DF,FW",21,25,7,810,9.0,2,0,2,2,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Sam Johnstone,eng ENG,GK,31,7,7,630,7.0,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Hwang Hee-chan,kr KOR,"MF,FW",28,21,5,661,7.3,2,0,2,2,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Yerson Mosquera,co COL,DF,23,5,5,441,4.9,0,0,0,0,0,0,2,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Tommy Doyle,eng ENG,MF,22,24,3,488,5.4,0,1,1,0,0,0,1,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Daniel Bentley,eng ENG,GK,31,2,2,180,2.0,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Carlos Forbs,pt POR,"MF,FW",20,10,1,239,2.7,0,0,0,0,0,0,2,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Pedro Lima,br BRA,DF,18,3,1,70,0.8,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Nasser Djiga,bf BFA,DF,21,5,1,66,0.7,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Daniel Podence,pt POR,"MF,FW",28,2,0,48,0.5,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Chiquinho,pt POR,MF,24,1,0,7,0.1,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Mateus Mane,,MF,,1,0,2,0.0,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Tom King,wls WAL,GK,29,1,0,1,0.0,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Alfie Pond,eng ENG,DF,20,1,0,1,0.0,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Boubacar Traoré,ml MLI,MF,22,1,0,1,0.0,0,0,0,0,0,0,0,0,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Tawanda Chirewa,zw ZIM,MF,20,0,0,,,,,,,,,,,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Luke Cundle,eng ENG,MF,22,0,0,,,,,,,,,,,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Tom Edozie,eng ENG,MF,18,0,0,,,,,,,,,,,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Bastien Meupiyou,fr FRA,DF,18,0,0,,,,,,,,,,,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Wesley Okoduwa,eng ENG,FW,16,0,0,,,,,,,,,,,Matches,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Squad Total,,,26.9,38,418,3420,38.0,53,42,95,53,0,0,79,2,,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Opponent Total,,,26.2,38,418,3420,38.0,66,47,113,59,7,9,85,3,,Wolves,https://fbref.com/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats,
+Pedro Porro,es ESP,DF,24,33,28,2610,29.0,2,6,8,2,0,0,5,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Dejan Kulusevski,se SWE,"MF,FW",24,32,27,2389,26.5,7,4,11,7,0,0,3,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Dominic Solanke,eng ENG,FW,26,27,25,2201,24.5,9,3,12,8,1,1,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Brennan Johnson,wls WAL,FW,23,33,24,2177,24.2,11,3,14,11,0,0,5,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Guglielmo Vicario,it ITA,GK,27,24,24,2160,24.0,0,0,0,0,0,0,1,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Son Heung-min,kr KOR,FW,32,30,24,2110,23.4,7,9,16,6,1,2,1,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Destiny Udogie,it ITA,DF,21,25,24,1924,21.4,0,1,1,0,0,0,2,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Pape Matar Sarr,sn SEN,MF,21,36,22,1913,21.3,3,2,5,3,0,0,6,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+James Maddison,eng ENG,MF,27,31,21,1809,20.1,9,7,16,9,0,0,6,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Rodrigo Bentancur,uy URU,MF,27,26,21,1645,18.3,2,0,2,2,0,0,9,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Djed Spence,eng ENG,DF,23,25,19,1792,19.9,1,2,3,1,0,0,4,1,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Archie Gray,eng ENG,"DF,MF",18,28,19,1751,19.5,0,0,0,0,0,0,1,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Cristian Romero,ar ARG,DF,26,18,18,1416,15.7,1,0,1,1,0,0,3,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Yves Bissouma,ml MLI,MF,27,28,16,1408,15.6,2,0,2,2,0,0,7,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Ben Davies,wls WAL,DF,31,17,14,1331,14.8,0,0,0,0,0,0,5,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Radu Drăgușin,ro ROU,DF,22,16,14,1252,13.9,0,0,0,0,0,0,1,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Micky van de Ven,nl NED,DF,23,13,12,1015,11.3,0,2,2,0,0,0,4,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Lucas Bergvall,se SWE,MF,18,27,11,1212,13.5,0,1,1,0,0,0,3,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Mathys Tel,fr FRA,FW,19,13,11,911,10.1,2,1,3,1,1,1,2,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Wilson Odobert,fr FRA,"FW,MF",19,16,9,850,9.4,1,0,1,1,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Kevin Danso,at AUT,DF,25,10,9,842,9.4,0,0,0,0,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Fraser Forster,eng ENG,GK,36,7,7,630,7.0,0,0,0,0,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Antonín Kinský,cz CZE,GK,21,6,6,540,6.0,0,0,0,0,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Timo Werner,de GER,"FW,MF",28,18,4,516,5.7,0,3,3,0,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Richarlison,br BRA,FW,27,15,4,504,5.6,4,1,5,4,0,0,2,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Mikey Moore,eng ENG,FW,16,10,3,366,4.1,0,1,1,0,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Sergio Reguilón,es ESP,DF,27,4,1,196,2.2,0,0,0,0,0,0,2,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Brandon Austin,eng ENG,GK,25,1,1,90,1.0,0,0,0,0,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Dane Scarlett,eng ENG,"FW,MF",20,3,0,34,0.4,0,1,1,0,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Alfie Dorrington,eng ENG,DF,19,1,0,14,0.2,0,0,0,0,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Will Lankshear,eng ENG,"FW,MF",19,3,0,11,0.1,0,0,0,0,0,0,0,0,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Oyindamola Ajayi,eng ENG,MF,18,0,0,,,,,,,,,,,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Dante Cassanova,jm JAM,DF,20,0,0,,,,,,,,,,,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Alfie Devine,eng ENG,MF,19,0,0,,,,,,,,,,,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Malachi Hardy,eng ENG,DF,16,0,0,,,,,,,,,,,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Maeson King,eng ENG,DF,18,0,0,,,,,,,,,,,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Yang Minhyeok,kr KOR,MF,18,0,0,,,,,,,,,,,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Callum Olusesi,eng ENG,MF,17,0,0,,,,,,,,,,,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Alfie Whiteman,eng ENG,GK,25,0,0,,,,,,,,,,,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Luca Williams Barnett,eng ENG,FW,15,0,0,,,,,,,,,,,Matches,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Squad Total,,,25.0,38,418,3420,38.0,61,47,108,58,3,4,72,1,,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Opponent Total,,,26.2,38,418,3420,38.0,61,43,104,58,3,3,85,3,,Tottenham,https://fbref.com/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,
+Jamie Vardy,eng ENG,FW,37,35,35,2823,31.4,9,4,13,8,1,2,5,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+James Justin,eng ENG,DF,26,36,34,2912,32.4,2,2,4,2,0,0,6,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Wout Faes,be BEL,DF,26,34,30,2815,31.3,1,0,1,1,0,0,4,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Victor Bernth Kristiansen,dk DEN,DF,21,30,29,2482,27.6,0,1,1,0,0,0,1,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Wilfred Ndidi,ng NGA,MF,27,28,28,2324,25.8,0,5,5,0,0,0,8,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Mads Hermansen,dk DEN,GK,24,27,27,2385,26.5,0,0,0,0,0,0,1,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Bilal El Khannouss,ma MAR,"MF,FW",20,32,27,2182,24.2,2,3,5,2,0,0,4,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Boubakary Soumaré,fr FRA,MF,25,31,25,2171,24.1,0,0,0,0,0,0,8,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Conor Coady,eng ENG,DF,31,22,19,1714,19.0,1,0,1,1,0,0,3,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Jordan Ayew,gh GHA,"FW,MF",32,30,19,1638,18.2,5,0,5,4,1,1,5,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Harry Winks,eng ENG,MF,28,22,17,1538,17.1,0,2,2,0,0,0,4,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Stephy Mavididi,eng ENG,FW,26,30,16,1615,17.9,4,1,5,4,0,0,2,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Jannik Vestergaard,dk DEN,DF,31,18,16,1391,15.5,0,0,0,0,0,0,5,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Facundo Buonanotte,ar ARG,"FW,MF",19,31,14,1523,16.9,5,2,7,5,0,0,8,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Luke Thomas,eng ENG,DF,23,14,13,1110,12.3,0,0,0,0,0,0,3,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Caleb Okoli,it ITA,DF,23,19,12,1125,12.5,1,0,1,1,0,0,4,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Oliver Skipp,eng ENG,MF,23,24,10,1129,12.5,0,0,0,0,0,0,8,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Jakub Stolarczyk,pl POL,GK,23,10,10,900,10.0,0,0,0,0,0,0,1,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Kasey McAteer,ie IRL,FW,22,18,9,852,9.5,1,1,2,1,0,0,3,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Bobby De Cordova-Reid,jm JAM,FW,31,23,9,744,8.3,1,2,3,1,0,0,2,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Patson Daka,zm ZAM,"FW,MF",25,23,6,736,8.2,1,0,1,1,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Abdul Fatawu Issahaku,gh GHA,FW,20,11,6,579,6.4,0,2,2,0,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Ricardo Pereira,pt POR,DF,30,10,4,388,4.3,0,0,0,0,0,0,1,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Danny Ward,wls WAL,GK,31,2,1,135,1.5,0,0,0,0,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Hamza Choudhury,bd BAN,"MF,DF",26,4,1,131,1.5,0,0,0,0,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Woyo Coulibaly,ml MLI,DF,25,4,1,109,1.2,0,0,0,0,0,0,1,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Jeremy Monga,,"FW,MF",15,7,0,112,1.2,0,0,0,0,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Odsonne Édouard,fr FRA,FW,26,4,0,29,0.3,0,0,0,0,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Jake Evans,,FW,,4,0,24,0.3,0,0,0,0,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Olabade Aluko,,DF,,1,0,2,0.0,0,0,0,0,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Will Alves,eng ENG,FW,19,1,0,1,0.0,0,0,0,0,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Michael Golding,eng ENG,MF,18,1,0,1,0.0,0,0,0,0,0,0,0,0,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Sammy Braybrooke,eng ENG,MF,20,0,0,,,,,,,,,,,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Thomas Cannon,ie IRL,FW,21,0,0,,,,,,,,,,,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Henry Cartwright,eng ENG,MF,19,0,0,,,,,,,,,,,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Daniel Iversen,dk DEN,GK,27,0,0,,,,,,,,,,,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Benjamin Nelson,eng ENG,DF,20,0,0,,,,,,,,,,,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Thomas Wilson-Brown,eng ENG,DF,19,0,0,,,,,,,,,,,Matches,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Squad Total,,,26.6,38,418,3420,38.0,33,25,58,31,2,3,87,0,,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Opponent Total,,,26.3,38,418,3420,38.0,77,57,134,74,3,4,58,2,,Leicester City,https://fbref.com/en/squads/a2d435b3/2024-2025/Leicester-City-Stats,
+Dara O'Shea,ie IRL,DF,25.0,,35,3122.0,34.7,0.0,2.0,2.0,0.0,0.0,0.0,6.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,35
+Leif Davis,eng ENG,DF,24.0,,32,2743.0,30.5,1.0,2.0,3.0,1.0,0.0,0.0,5.0,1.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,33
+Liam Delap,eng ENG,FW,21.0,,32,2593.0,28.8,12.0,2.0,14.0,10.0,2.0,2.0,12.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,37
+Sam Morsy,eg EGY,MF,32.0,,31,2751.0,30.6,1.0,1.0,2.0,1.0,0.0,0.0,10.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,33
+Omari Hutchinson,eng ENG,"MF,FW",20.0,,30,2583.0,28.7,3.0,2.0,5.0,3.0,0.0,0.0,5.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,31
+Jacob Greaves,eng ENG,DF,23.0,,25,2205.0,24.5,1.0,0.0,1.0,1.0,0.0,0.0,5.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,25
+Jens Cajuste,se SWE,MF,24.0,,25,1959.0,21.8,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,30
+Axel Tuanzebe,cd COD,DF,26.0,,20,1710.0,19.0,0.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,22
+Arijanet Muric,xk KVX,GK,25.0,,18,1620.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,18
+Cameron Burgess,au AUS,DF,28.0,,16,1541.0,17.1,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,18
+Ben Johnson,eng ENG,"DF,FW",24.0,,14,1354.0,15.0,1.0,2.0,3.0,1.0,0.0,0.0,5.0,1.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,23
+Kalvin Phillips,eng ENG,MF,28.0,,14,1237.0,13.7,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,19
+Alex Palmer,eng ENG,GK,27.0,,13,1170.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,13
+Sammie Szmodics,ie IRL,"FW,MF",28.0,,13,992.0,11.0,4.0,0.0,4.0,4.0,0.0,0.0,2.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,20
+Luke Woolfenden,eng ENG,DF,25.0,,12,1187.0,13.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,15
+Jack Clarke,eng ENG,"FW,MF",23.0,,12,1181.0,13.1,0.0,4.0,4.0,0.0,0.0,0.0,2.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,32
+Wes Burns,wls WAL,"FW,DF",29.0,,12,926.0,10.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,18
+Julio Enciso,py PAR,"MF,FW",20.0,,12,869.0,9.7,2.0,3.0,5.0,2.0,0.0,0.0,3.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,13
+Conor Chaplin,eng ENG,"MF,FW",27.0,,10,857.0,9.5,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,22
+Nathan Broadhead,wls WAL,"MF,FW",26.0,,7,702.0,7.8,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,18
+Christian Walton,eng ENG,GK,28.0,,7,630.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,7
+George Hirst,sct SCO,FW,25.0,,5,661.0,7.3,3.0,1.0,4.0,3.0,0.0,0.0,3.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,26
+Jaden Philogene Bidace,eng ENG,"FW,DF",22.0,,5,474.0,5.3,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,10
+Jack Taylor,ie IRL,MF,26.0,,4,860.0,9.6,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,32
+Harry Clarke,eng ENG,DF,23.0,,4,379.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,7
+Conor Townsend,eng ENG,DF,31.0,,3,335.0,3.7,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,6
+Chiedozie Ogbene,ie IRL,FW,27.0,,3,238.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,5
+Massimo Luongo,au AUS,MF,31.0,,2,201.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,11
+Ben Godfrey,eng ENG,DF,26.0,,2,159.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,3
+Ali Al Hamadi,iq IRQ,FW,22.0,,0,134.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,11
+Marcus Harness,eng ENG,MF,28.0,,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,2
+George Edmundson,eng ENG,DF,26.0,,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,1
+Somto Boniface,eng ENG,DF,18.0,,0,,,,,,,,,,,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,0
+Cieran Slicker,sct SCO,GK,21.0,,0,,,,,,,,,,,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,0
+Tom Taylor,,MF,,,0,,,,,,,,,,,Matches,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,0
+Squad Total,,,25.8,,418,3420.0,38.0,35.0,26.0,61.0,33.0,2.0,2.0,93.0,5.0,,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,38
+Opponent Total,,,26.3,,418,3420.0,38.0,80.0,55.0,135.0,74.0,6.0,6.0,65.0,2.0,,Ipswich Town,https://fbref.com/en/squads/b74092de/2024-2025/Ipswich-Town-Stats,38
+Mateus Fernandes,pt POR,MF,20,,34,2909,32.3,2,4,6,2,0,0,8,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,36
+Kyle Walker-Peters,eng ENG,DF,27,,33,2918,32.4,0,2,2,0,0,0,5,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,33
+Taylor Harwood-Bellis,eng ENG,DF,22,,32,2825,31.4,1,0,1,1,0,0,9,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,34
+Aaron Ramsdale,eng ENG,GK,26,,30,2700,30.0,0,0,0,0,0,0,2,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,30
+Jan Bednarek,pl POL,DF,28,,30,2531,28.1,2,0,2,2,0,0,7,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,30
+Flynn Downes,eng ENG,MF,25,,25,2151,23.9,1,0,1,1,0,0,12,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,27
+Joe Aribo,ng NGA,"MF,DF",28,,21,2013,22.4,3,0,3,3,0,0,1,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,32
+Tyler Dibling,eng ENG,"FW,MF",18,,20,1874,20.8,2,0,2,2,0,0,6,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,33
+Lesley Ugochukwu,fr FRA,MF,20,,18,1655,18.4,1,1,2,1,0,0,7,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,26
+Ryan Manning,ie IRL,"DF,MF",28,,18,1462,16.2,0,1,1,0,0,0,2,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,24
+Kamaldeen Sulemana,gh GHA,"FW,MF",22,,17,1402,15.6,1,1,2,1,0,0,2,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,26
+Jack Stephens,eng ENG,DF,30,,17,1389,15.4,1,0,1,1,0,0,2,2,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,19
+Yukinari Sugawara,jp JPN,"DF,MF",24,,16,1557,17.3,1,1,2,1,0,0,4,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,30
+Adam Armstrong,eng ENG,"FW,MF",27,,15,1248,13.9,2,2,4,2,0,1,4,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,20
+Cameron Archer,eng ENG,FW,23,,13,1441,16.0,2,0,2,2,0,1,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,35
+James Bree,eng ENG,DF,26,,13,1075,11.9,0,1,1,0,0,0,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,17
+Paul Onuachu,ng NGA,FW,30,,11,1050,11.7,4,1,5,4,0,0,4,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,25
+Nathan Wood-Gordon,eng ENG,DF,22,,9,773,8.6,0,0,0,0,0,0,2,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,11
+William Smallbone,ie IRL,MF,24,,6,690,7.7,1,0,1,1,0,0,1,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,18
+Welington,br BRA,DF,23,,6,482,5.4,0,0,0,0,0,0,1,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,10
+Alex McCarthy,eng ENG,GK,34,,5,450,5.0,0,0,0,0,0,0,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,5
+Adam Lallana,eng ENG,MF,36,,5,361,4.0,0,2,2,0,0,0,4,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,14
+Ben Brereton,cl CHI,FW,25,,4,449,5.0,0,0,0,0,0,0,1,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,10
+Ross Stewart,sct SCO,FW,28,,4,389,4.3,1,0,1,1,0,0,1,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,12
+Ryan Fraser,sct SCO,"FW,DF",30,,4,306,3.4,0,0,0,0,0,0,0,1,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,8
+Charlie Taylor,eng ENG,DF,30,,3,356,4.0,0,0,0,0,0,0,1,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,8
+Joe Lumley,eng ENG,GK,29,,3,270,3.0,0,0,0,0,0,0,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,3
+Armel Bella Kotchap,de GER,DF,22,,2,331,3.7,0,0,0,0,0,0,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,4
+Albert Grønbaek,dk DEN,"FW,MF",23,,2,143,1.6,0,0,0,0,0,0,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,4
+Jay Robinson,eng ENG,"MF,FW",17,,1,137,1.5,0,0,0,0,0,0,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,4
+,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,Playing Time
+Player,Nation,Pos,Age,,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,MP
+Maxwel Cornet,ci CIV,FW,27,,1,72,0.8,0,0,0,0,0,0,1,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,2
+Samuel Edozie,eng ENG,"DF,FW",21,,0,65,0.7,0,0,0,0,0,0,1,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,2
+Samuel Amo-Ameyaw,eng ENG,"FW,DF",18,,0,28,0.3,0,0,0,0,0,0,1,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,2
+Joachim Kayi Sanda,fr FRA,DF,17,,0,14,0.2,0,0,0,0,0,0,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,2
+Ronnie Edwards,eng ENG,DF,21,,0,12,0.1,0,0,0,0,0,0,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,1
+Carlos Alcaraz,ar ARG,MF,21,,0,10,0.1,0,0,0,0,0,0,0,0,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,1
+Jayden Moore,,DF,,,0,,,,,,,,,,,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,0
+Joe O'Brien-Whitmarsh,ie IRL,MF,19,,0,,,,,,,,,,,Matches,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,0
+Squad Total,,,25.2,,418,3420,38.0,25,16,41,25,0,2,89,3,,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,38
+Opponent Total,,,26.2,,418,3420,38.0,86,61,147,79,7,9,54,1,,Southampton,https://fbref.com/en/squads/33c895d4/2024-2025/Southampton-Stats,38
